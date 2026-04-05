@@ -66,5 +66,6 @@ The system effectively detects cyber attacks and applies optimal defense strateg
 
 ---
 
-## 👨‍💻 Author
-Your Name
+## 📊 Output
+
+![Output](output.png)
