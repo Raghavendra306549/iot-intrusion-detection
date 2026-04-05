@@ -1,4 +1,6 @@
-# IoT Intrusion Detection System using ML and Game Theory
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![ML](https://img.shields.io/badge/MachineLearning-RandomForest-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)# IoT Intrusion Detection System using ML and Game Theory
 
 ## 📌 Overview
 This project implements an Intrusion Detection and Prevention System (IDPS) for IoT networks using Machine Learning and Game Theory.
