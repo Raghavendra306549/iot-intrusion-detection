@@ -36,7 +36,9 @@ The system detects multiple types of cyber attacks and suggests optimal defense 
 - Cyber Espionage  
 
 ---
+## 🔄 Workflow
 
+CICIDS Dataset → Preprocessing → Random Forest Training → NS3 Testing → Attack Detection → Game Theory Strategy
 ## 📊 Results
 - Accuracy: ~98%  
 - Strong confusion matrix performance  
