@@ -74,7 +74,7 @@ Game Theory Strategy Selection
 
 ## 🖼️ Output
 
-![Model Output](output.png)
+![Model Output](Output.png)
 
 ---
 
